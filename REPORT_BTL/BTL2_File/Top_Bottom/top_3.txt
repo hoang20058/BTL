@@ -1,0 +1,657 @@
+
+==============
+      Name_col  Rank    Player Name  Value
+Matches played Top 1     Alex Iwobi   35.0
+Matches played Top 2 Anthony Elanga   35.0
+Matches played Top 3     Bernd Leno   35.0
+Matches played Bot 1 Brandon Austin    1.0
+Matches played Bot 2     Chadi Riad    1.0
+Matches played Bot 3 Daniel Bentley    1.0
+
+==============
+Name_col  Rank     Player Name  Value
+  Starts Top 1      Bernd Leno   35.0
+  Starts Top 2 Bruno Guimarães   35.0
+  Starts Top 3    Bryan Mbeumo   35.0
+  Starts Bot 1   Ali Al Hamadi    0.0
+  Starts Bot 2          Antony    0.0
+  Starts Bot 3    Ben Chilwell    0.0
+
+==============
+Name_col  Rank    Player Name  Value
+ Minutes Top 1  Omar Marmoush  998.0
+ Minutes Top 2   Oliver Skipp  996.0
+ Minutes Top 3    Alex Palmer  990.0
+ Minutes Bot 1 Brandon Austin   90.0
+ Minutes Bot 2     Chadi Riad   90.0
+ Minutes Bot 3 Daniel Bentley   90.0
+
+==============
+Name_col  Rank        Player Name  Value
+   Goals Top 1      Mohamed Salah   28.0
+   Goals Top 2     Alexander Isak   23.0
+   Goals Top 3     Erling Haaland   21.0
+   Goals Bot 1    Aaron Cresswell    0.0
+   Goals Bot 2     Aaron Ramsdale    0.0
+   Goals Bot 3 Abdukodir Khusanov    0.0
+
+==============
+Name_col  Rank        Player Name  Value
+ Assists Top 1      Mohamed Salah   18.0
+ Assists Top 2       Jacob Murphy   11.0
+ Assists Top 3   Antonee Robinson   10.0
+ Assists Bot 1    Aaron Cresswell    0.0
+ Assists Bot 2     Aaron Ramsdale    0.0
+ Assists Bot 3 Abdukodir Khusanov    0.0
+
+==============
+    Name_col  Rank           Player Name  Value
+Yellow Cards Top 1            Saša Lukić   12.0
+Yellow Cards Top 2    Morgan Gibbs-White   11.0
+Yellow Cards Top 3           Will Hughes   11.0
+Yellow Cards Bot 1 Abdul Fatawu Issahaku    0.0
+Yellow Cards Bot 2          Adam Webster    0.0
+Yellow Cards Bot 3       Albert Grønbaek    0.0
+
+==============
+ Name_col  Rank        Player Name  Value
+Red Cards Top 1    Bruno Fernandes    2.0
+Red Cards Top 2      Jack Stephens    2.0
+Red Cards Top 3 Myles Lewis-Skelly    2.0
+Red Cards Bot 1    Aaron Cresswell    0.0
+Red Cards Bot 2     Aaron Ramsdale    0.0
+Red Cards Bot 3  Aaron Wan-Bissaka    0.0
+
+==============
+Name_col  Rank        Player Name  Value
+      xG Top 1      Mohamed Salah   24.0
+      xG Top 2     Erling Haaland   20.8
+      xG Top 3     Alexander Isak   19.9
+      xG Bot 1     Aaron Ramsdale    0.0
+      xG Bot 2 Abdukodir Khusanov    0.0
+      xG Bot 3       Adam Webster    0.0
+
+==============
+Name_col  Rank     Player Name  Value
+     xAG Top 1   Mohamed Salah   13.2
+     xAG Top 2     Cole Palmer   10.0
+     xAG Top 3   Son Heung-min    8.2
+     xAG Bot 1  Aaron Ramsdale    0.0
+     xAG Bot 2 Albert Grønbaek    0.0
+     xAG Bot 3   Alex McCarthy    0.0
+
+==============
+   Name_col  Rank    Player Name  Value
+Prg Carries Top 1    Jeremy Doku  189.0
+Prg Carries Top 2  Mohamed Salah  143.0
+Prg Carries Top 3   Noni Madueke  142.0
+Prg Carries Bot 1 Aaron Ramsdale    0.0
+Prg Carries Bot 2  Alex McCarthy    0.0
+Prg Carries Bot 3    Alex Palmer    0.0
+
+==============
+  Name_col  Rank     Player Name  Value
+Prg Passes Top 1 Bruno Fernandes  281.0
+Prg Passes Top 2  Joško Gvardiol  251.0
+Prg Passes Top 3 Bruno Guimarães  247.0
+Prg Passes Bot 1  Aaron Ramsdale    0.0
+Prg Passes Bot 2   Alex McCarthy    0.0
+Prg Passes Bot 3         Alisson    0.0
+
+==============
+      Name_col  Rank        Player Name  Value
+Prg Passes Rec Top 1      Mohamed Salah  440.0
+Prg Passes Rec Top 2       Bryan Mbeumo  319.0
+Prg Passes Rec Top 3 Alejandro Garnacho  281.0
+Prg Passes Rec Bot 1     Aaron Ramsdale    0.0
+Prg Passes Rec Bot 2      Alex McCarthy    0.0
+Prg Passes Rec Bot 3        Alex Palmer    0.0
+
+==============
+Name_col  Rank        Player Name  Value
+Goals/90 Top 1        Jáder Durán   0.99
+Goals/90 Top 2      Donyell Malen   0.92
+Goals/90 Top 3       James Mcatee   0.89
+Goals/90 Bot 1    Aaron Cresswell   0.00
+Goals/90 Bot 2     Aaron Ramsdale   0.00
+Goals/90 Bot 3 Abdukodir Khusanov   0.00
+
+==============
+  Name_col  Rank        Player Name  Value
+Assists/90 Top 1     Tyrique George   0.87
+Assists/90 Top 2         Danny Ings   0.63
+Assists/90 Top 3        Bukayo Saka   0.58
+Assists/90 Bot 1    Aaron Cresswell   0.00
+Assists/90 Bot 2     Aaron Ramsdale   0.00
+Assists/90 Bot 3 Abdukodir Khusanov   0.00
+
+==============
+Name_col  Rank        Player Name  Value
+   xG/90 Top 1       James Mcatee   0.83
+   xG/90 Top 2     Erling Haaland   0.76
+   xG/90 Top 3         Danny Ings   0.72
+   xG/90 Bot 1     Aaron Ramsdale   0.00
+   xG/90 Bot 2 Abdukodir Khusanov   0.00
+   xG/90 Bot 3       Adam Webster   0.00
+
+==============
+Name_col  Rank     Player Name  Value
+  xGA/90 Top 1  Tyrique George   0.63
+  xGA/90 Top 2 Mykhailo Mudryk   0.58
+  xGA/90 Top 3 Luis Sinisterra   0.54
+  xGA/90 Bot 1  Aaron Ramsdale   0.00
+  xGA/90 Bot 2   Alex McCarthy   0.00
+  xGA/90 Bot 3     Alex Palmer   0.00
+
+==============
+Name_col  Rank      Player Name  Value
+    GA90 Top 1   Altay Bayındır   4.00
+    GA90 Top 2       Danny Ward   4.00
+    GA90 Top 3 Christian Walton   2.67
+    GA90 Bot 1   Daniel Bentley   0.00
+    GA90 Bot 2     Jason Steele   0.50
+    GA90 Bot 3       David Raya   0.89
+
+==============
+Name_col  Rank    Player Name  Value
+   Save% Top 1 Daniel Bentley  100.0
+   Save% Top 2           Neto   84.6
+   Save% Top 3   Mark Travers   80.0
+   Save% Bot 1 Altay Bayındır   33.3
+   Save% Bot 2     Danny Ward   40.0
+   Save% Bot 3 Brandon Austin   50.0
+
+==============
+Name_col  Rank             Player Name  Value
+     CS% Top 1          Daniel Bentley  100.0
+     CS% Top 2 Hákon Rafn Valdimarsson  100.0
+     CS% Top 3             Robin Olsen  100.0
+     CS% Bot 1           Alex McCarthy    0.0
+     CS% Bot 2             Alex Palmer    0.0
+     CS% Bot 3          Altay Bayındır    0.0
+
+==============
+Name_col  Rank       Player Name  Value
+PK_Save% Top 1 Caoimhín Kelleher  100.0
+PK_Save% Top 2   Jordan Pickford  100.0
+PK_Save% Top 3    Dean Henderson   50.0
+PK_Save% Bot 1     Alex McCarthy    0.0
+PK_Save% Bot 2       Alex Palmer    0.0
+PK_Save% Bot 3           Alisson    0.0
+
+==============
+Name_col  Rank        Player Name  Value
+    SoT% Top 1       Adam Webster  100.0
+    SoT% Top 2        Archie Gray  100.0
+    SoT% Top 3        Conor Coady  100.0
+    SoT% Bot 1    Aaron Cresswell    0.0
+    SoT% Bot 2 Abdukodir Khusanov    0.0
+    SoT% Bot 3       Adam Lallana    0.0
+
+==============
+Name_col  Rank        Player Name  Value
+  Sot/90 Top 1       Julio Enciso   3.37
+  Sot/90 Top 2      Donyell Malen   2.76
+  Sot/90 Top 3    Luis Sinisterra   2.29
+  Sot/90 Bot 1    Aaron Cresswell   0.00
+  Sot/90 Bot 2     Aaron Ramsdale   0.00
+  Sot/90 Bot 3 Abdukodir Khusanov   0.00
+
+==============
+Name_col  Rank           Player Name  Value
+    G/sh Top 1           John Stones    1.0
+    G/sh Top 2           Axel Disasi    0.5
+    G/sh Top 3    Myles Lewis-Skelly    0.5
+    G/sh Bot 1       Aaron Cresswell    0.0
+    G/sh Bot 2    Abdukodir Khusanov    0.0
+    G/sh Bot 3 Abdul Fatawu Issahaku    0.0
+
+==============
+  Name_col  Rank      Player Name  Value
+Shoot_Dist Top 1  Ibrahim Sangaré   32.0
+Shoot_Dist Top 2 Emmanuel Agbadou   31.8
+Shoot_Dist Top 3      Ryan Fraser   31.6
+Shoot_Dist Bot 1   Kieran Tierney    2.6
+Shoot_Dist Bot 2     Harry Clarke    4.5
+Shoot_Dist Bot 3      John Stones    5.1
+
+==============
+              Name_col  Rank     Player Name  Value
+Passes Completed (Cmp) Top 1 Virgil van Dijk 2543.0
+Passes Completed (Cmp) Top 2  Joško Gvardiol 2321.0
+Passes Completed (Cmp) Top 3  William Saliba 2320.0
+Passes Completed (Cmp) Bot 1 Odsonne Édouard    6.0
+Passes Completed (Cmp) Bot 2     Roman Dixon   11.0
+Passes Completed (Cmp) Bot 3   William Osula   11.0
+
+==============
+Name_col  Rank    Player Name  Value
+    Cmp% Top 1 William Saliba   94.2
+    Cmp% Top 2  Manuel Akanji   93.9
+    Cmp% Top 3     Nathan Aké   93.9
+    Cmp% Bot 1      Matz Sels   51.1
+    Cmp% Bot 2 Altay Bayındır   55.5
+    Cmp% Bot 3   George Hirst   55.8
+
+==============
+  Name_col  Rank     Player Name   Value
+Total Dist Top 1 Virgil van Dijk 46352.0
+Total Dist Top 2    Levi Colwill 40277.0
+Total Dist Top 3  William Saliba 39927.0
+Total Dist Bot 1 Odsonne Édouard    59.0
+Total Dist Bot 2   William Osula   126.0
+Total Dist Bot 3 Albert Grønbaek   135.0
+
+==============
+  Name_col  Rank    Player Name  Value
+Short_Cmp% Top 1 Altay Bayındır  100.0
+Short_Cmp% Top 2 Antonín Kinský  100.0
+Short_Cmp% Top 3 Arijanet Muric  100.0
+Short_Cmp% Bot 1  William Osula   61.5
+Short_Cmp% Bot 2   Paul Onuachu   62.9
+Short_Cmp% Bot 3   George Hirst   66.7
+
+==============
+   Name_col  Rank       Player Name  Value
+Medium_Cmp% Top 1       Alex Palmer  100.0
+Medium_Cmp% Top 2    Brandon Austin  100.0
+Medium_Cmp% Top 3 Caoimhín Kelleher  100.0
+Medium_Cmp% Bot 1   Albert Grønbaek   50.0
+Medium_Cmp% Bot 2              Beto   50.0
+Medium_Cmp% Bot 3      George Hirst   50.0
+
+==============
+ Name_col  Rank      Player Name  Value
+Long_Cmp% Top 1      Andy Irving  100.0
+Long_Cmp% Top 2           Antony  100.0
+Long_Cmp% Top 3 Chiedozie Ogbene  100.0
+Long_Cmp% Bot 1        Enes Ünal    0.0
+Long_Cmp% Bot 2     Ross Stewart    0.0
+Long_Cmp% Bot 3   Tyrique George    0.0
+
+==============
+  Name_col  Rank     Player Name  Value
+Key Passes Top 1 Bruno Fernandes   84.0
+Key Passes Top 2     Cole Palmer   82.0
+Key Passes Top 3   Mohamed Salah   82.0
+Key Passes Bot 1  Aaron Ramsdale    0.0
+Key Passes Bot 2   Alex McCarthy    0.0
+Key Passes Bot 3 Alphonse Areola    0.0
+
+==============
+Name_col  Rank      Player Name  Value
+Pass 1/3 Top 1  Virgil van Dijk  269.0
+Pass 1/3 Top 2   Joško Gvardiol  237.0
+Pass 1/3 Top 3  Youri Tielemans  228.0
+Pass 1/3 Bot 1    Ali Al Hamadi    0.0
+Pass 1/3 Bot 2   Brandon Austin    0.0
+Pass 1/3 Bot 3 Chiedozie Ogbene    0.0
+
+==============
+Name_col  Rank        Player Name  Value
+ Pass PA Top 1      Mohamed Salah   86.0
+ Pass PA Top 2    Martin Ødegaard   81.0
+ Pass PA Top 3         Alex Iwobi   78.0
+ Pass PA Bot 1 Abdukodir Khusanov    0.0
+ Pass PA Bot 2    Albert Grønbaek    0.0
+ Pass PA Bot 3      Alex McCarthy    0.0
+
+==============
+Name_col  Rank        Player Name  Value
+Cross PA Top 1   Antonee Robinson   28.0
+Cross PA Top 2        Pedro Porro   26.0
+Cross PA Top 3       Milos Kerkez   23.0
+Cross PA Bot 1     Aaron Ramsdale    0.0
+Cross PA Bot 2 Abdoulaye Doucouré    0.0
+Cross PA Bot 3 Abdukodir Khusanov    0.0
+
+==============
+         Name_col  Rank     Player Name  Value
+Prg Passes (Pass) Top 1 Bruno Fernandes  281.0
+Prg Passes (Pass) Top 2  Joško Gvardiol  251.0
+Prg Passes (Pass) Top 3 Bruno Guimarães  247.0
+Prg Passes (Pass) Bot 1  Aaron Ramsdale    0.0
+Prg Passes (Pass) Bot 2   Alex McCarthy    0.0
+Prg Passes (Pass) Bot 3         Alisson    0.0
+
+==============
+                   Name_col  Rank     Player Name  Value
+Shot-Creating Actions (SCA) Top 1     Cole Palmer  190.0
+Shot-Creating Actions (SCA) Top 2 Bruno Fernandes  169.0
+Shot-Creating Actions (SCA) Top 3   Mohamed Salah  157.0
+Shot-Creating Actions (SCA) Bot 1   Alex McCarthy    0.0
+Shot-Creating Actions (SCA) Bot 2  Altay Bayındır    0.0
+Shot-Creating Actions (SCA) Bot 3         Ben Mee    0.0
+
+==============
+Name_col  Rank     Player Name  Value
+   SCA90 Top 1  Philip Billing   7.83
+   SCA90 Top 2  Luis Guilherme   6.52
+   SCA90 Top 3 Odsonne Édouard   6.21
+   SCA90 Bot 1   Alex McCarthy   0.00
+   SCA90 Bot 2  Altay Bayındır   0.00
+   SCA90 Bot 3         Ben Mee   0.00
+
+==============
+                   Name_col  Rank        Player Name  Value
+Goal-Creating Actions (GCA) Top 1      Mohamed Salah   26.0
+Goal-Creating Actions (GCA) Top 2        Bukayo Saka   22.0
+Goal-Creating Actions (GCA) Top 3   Mikkel Damsgaard   21.0
+Goal-Creating Actions (GCA) Bot 1    Aaron Cresswell    0.0
+Goal-Creating Actions (GCA) Bot 2     Aaron Ramsdale    0.0
+Goal-Creating Actions (GCA) Bot 3 Abdukodir Khusanov    0.0
+
+==============
+Name_col  Rank        Player Name  Value
+   GCA90 Top 1        Bukayo Saka   1.29
+   GCA90 Top 2        Solly March   1.08
+   GCA90 Top 3        Amad Diallo   0.93
+   GCA90 Bot 1    Aaron Cresswell   0.00
+   GCA90 Bot 2     Aaron Ramsdale   0.00
+   GCA90 Bot 3 Abdukodir Khusanov   0.00
+
+==============
+Name_col  Rank        Player Name  Value
+     Tkl Top 1 Idrissa Gana Gueye  124.0
+     Tkl Top 2       Daniel Muñoz  113.0
+     Tkl Top 3         João Gomes  105.0
+     Tkl Bot 1     Aaron Ramsdale    0.0
+     Tkl Bot 2      Alex McCarthy    0.0
+     Tkl Bot 3        Alex Palmer    0.0
+
+==============
+Name_col  Rank        Player Name  Value
+ Tkl Won Top 1       Daniel Muñoz   74.0
+ Tkl Won Top 2 Idrissa Gana Gueye   74.0
+ Tkl Won Top 3     Moisés Caicedo   64.0
+ Tkl Won Bot 1     Aaron Ramsdale    0.0
+ Tkl Won Bot 2      Alex McCarthy    0.0
+ Tkl Won Bot 3        Alex Palmer    0.0
+
+==============
+                 Name_col  Rank            Player Name  Value
+Dribbles Challenged (Att) Top 1    Alexis Mac Allister  104.0
+Dribbles Challenged (Att) Top 2 Trent Alexander-Arnold  103.0
+Dribbles Challenged (Att) Top 3             João Gomes  102.0
+Dribbles Challenged (Att) Bot 1          Alex McCarthy    0.0
+Dribbles Challenged (Att) Bot 2            Alex Palmer    0.0
+Dribbles Challenged (Att) Bot 3          Armando Broja    0.0
+
+==============
+       Name_col  Rank            Player Name  Value
+Challenges Lost Top 1             João Gomes   60.0
+Challenges Lost Top 2        Elliot Anderson   57.0
+Challenges Lost Top 3 Trent Alexander-Arnold   55.0
+Challenges Lost Bot 1          Alex McCarthy    0.0
+Challenges Lost Bot 2            Alex Palmer    0.0
+Challenges Lost Bot 3         Antonín Kinský    0.0
+
+==============
+Name_col  Rank     Player Name  Value
+  Blocks Top 1  Nathan Collins   71.0
+  Blocks Top 2         Murillo   67.0
+  Blocks Top 3 Tyrick Mitchell   62.0
+  Blocks Bot 1  Aaron Ramsdale    0.0
+  Blocks Bot 2   Alex McCarthy    0.0
+  Blocks Bot 3     Alex Palmer    0.0
+
+==============
+     Name_col  Rank           Player Name  Value
+Shots Blocked Top 1        Nathan Collins   51.0
+Shots Blocked Top 2           Dara O'Shea   47.0
+Shots Blocked Top 3               Murillo   44.0
+Shots Blocked Bot 1        Aaron Ramsdale    0.0
+Shots Blocked Bot 2 Abdul Fatawu Issahaku    0.0
+Shots Blocked Bot 3          Adama Traoré    0.0
+
+==============
+    Name_col  Rank         Player Name  Value
+Pass Blocked Top 1 Alexis Mac Allister   55.0
+Pass Blocked Top 2     Antoine Semenyo   51.0
+Pass Blocked Top 3     Tyrick Mitchell   50.0
+Pass Blocked Bot 1      Aaron Ramsdale    0.0
+Pass Blocked Bot 2     Albert Grønbaek    0.0
+Pass Blocked Bot 3       Alex McCarthy    0.0
+
+==============
+     Name_col  Rank       Player Name  Value
+Interceptions Top 1 Aaron Wan-Bissaka   60.0
+Interceptions Top 2  Antonee Robinson   57.0
+Interceptions Top 3  Ryan Gravenberch   57.0
+Interceptions Bot 1   Albert Grønbaek    0.0
+Interceptions Bot 2     Alex McCarthy    0.0
+Interceptions Bot 3       Alex Palmer    0.0
+
+==============
+Name_col  Rank     Player Name  Value
+ Touches Top 1 Virgil van Dijk 3125.0
+ Touches Top 2  Joško Gvardiol 2903.0
+ Touches Top 3    Levi Colwill 2728.0
+ Touches Bot 1 Odsonne Édouard   20.0
+ Touches Bot 2  Daniel Bentley   35.0
+ Touches Bot 3  Brandon Austin   36.0
+
+==============
+Name_col  Rank     Player Name  Value
+ Def_Pen Top 1    Mark Flekken 1338.0
+ Def_Pen Top 2      Bernd Leno 1097.0
+ Def_Pen Top 3 Bart Verbruggen 1034.0
+ Def_Pen Bot 1     Emi Buendía    0.0
+ Def_Pen Bot 2   Callum Wilson    1.0
+ Def_Pen Bot 3  Miguel Almirón    1.0
+
+==============
+Name_col  Rank     Player Name  Value
+ Def_3rd Top 1    Mark Flekken 1660.0
+ Def_3rd Top 2 Jordan Pickford 1494.0
+ Def_3rd Top 3      Bernd Leno 1354.0
+ Def_3rd Bot 1 Odsonne Édouard    2.0
+ Def_3rd Bot 2   William Osula    2.0
+ Def_3rd Bot 3   Callum Wilson    5.0
+
+==============
+Name_col  Rank     Player Name  Value
+ Mid_3rd Top 1 Virgil van Dijk 1719.0
+ Mid_3rd Top 2  William Saliba 1519.0
+ Mid_3rd Top 3  Joško Gvardiol 1474.0
+ Mid_3rd Bot 1   Alex McCarthy    0.0
+ Mid_3rd Bot 2  Brandon Austin    0.0
+ Mid_3rd Bot 3  Daniel Bentley    0.0
+
+==============
+Name_col  Rank     Player Name  Value
+ Att_3rd Top 1   Mohamed Salah 1023.0
+ Att_3rd Top 2    Bryan Mbeumo  913.0
+ Att_3rd Top 3 Bruno Fernandes  888.0
+ Att_3rd Bot 1  Aaron Ramsdale    0.0
+ Att_3rd Bot 2   Alex McCarthy    0.0
+ Att_3rd Bot 3     Alex Palmer    0.0
+
+==============
+Name_col  Rank     Player Name  Value
+ Att_Pen Top 1   Mohamed Salah  327.0
+ Att_Pen Top 2  Alexander Isak  178.0
+ Att_Pen Top 3 Antoine Semenyo  176.0
+ Att_Pen Bot 1  Aaron Ramsdale    0.0
+ Att_Pen Bot 2   Alex McCarthy    0.0
+ Att_Pen Bot 3     Alex Palmer    0.0
+
+==============
+ Name_col  Rank    Player Name  Value
+Attempted Top 1 Mohammed Kudus  194.0
+Attempted Top 2    Jeremy Doku  185.0
+Attempted Top 3  Morgan Rogers  153.0
+Attempted Bot 1 Aaron Ramsdale    0.0
+Attempted Bot 2  Alex McCarthy    0.0
+Attempted Bot 3    Alex Palmer    0.0
+
+==============
+    Name_col  Rank        Player Name  Value
+Successful % Top 1        Jeremy Doku  102.0
+Successful % Top 2     Mohammed Kudus   87.0
+Successful % Top 3      Morgan Rogers   65.0
+Successful % Bot 1     Aaron Ramsdale    0.0
+Successful % Bot 2 Abdukodir Khusanov    0.0
+Successful % Bot 3    Albert Grønbaek    0.0
+
+==============
+Name_col  Rank      Player Name  Value
+   Tkld% Top 1   Mohammed Kudus   89.0
+   Tkld% Top 2     Kaoru Mitoma   73.0
+   Tkld% Top 3 Dejan Kulusevski   71.0
+   Tkld% Bot 1   Aaron Ramsdale    0.0
+   Tkld% Bot 2    Alex McCarthy    0.0
+   Tkld% Bot 3      Alex Palmer    0.0
+
+==============
+Name_col  Rank     Player Name  Value
+ Carries Top 1  Joško Gvardiol 1886.0
+ Carries Top 2 Virgil van Dijk 1746.0
+ Carries Top 3  William Saliba 1675.0
+ Carries Bot 1 Odsonne Édouard   11.0
+ Carries Bot 2     Roman Dixon   16.0
+ Carries Bot 3   Harry Toffolo   17.0
+
+==============
+Name_col  Rank        Player Name  Value
+ PrgDist Top 1 Jan Paul van Hecke 6740.0
+ PrgDist Top 2     Joško Gvardiol 5715.0
+ PrgDist Top 3         Rúben Dias 5295.0
+ PrgDist Bot 1    Odsonne Édouard    2.0
+ PrgDist Bot 2    Albert Grønbaek   15.0
+ PrgDist Bot 3      Harry Toffolo   23.0
+
+==============
+   Name_col  Rank    Player Name  Value
+PrgC (Poss) Top 1    Jeremy Doku  189.0
+PrgC (Poss) Top 2  Mohamed Salah  143.0
+PrgC (Poss) Top 3   Noni Madueke  142.0
+PrgC (Poss) Bot 1 Aaron Ramsdale    0.0
+PrgC (Poss) Bot 2  Alex McCarthy    0.0
+PrgC (Poss) Bot 3    Alex Palmer    0.0
+
+==============
+   Name_col  Rank     Player Name  Value
+Carries_1/3 Top 1      Alex Iwobi  102.0
+Carries_1/3 Top 2  Joško Gvardiol   92.0
+Carries_1/3 Top 3     Jeremy Doku   88.0
+Carries_1/3 Bot 1  Aaron Ramsdale    0.0
+Carries_1/3 Bot 2 Albert Grønbaek    0.0
+Carries_1/3 Bot 3   Alex McCarthy    0.0
+
+==============
+   Name_col  Rank        Player Name  Value
+Carries_CPA Top 1      Mohamed Salah  115.0
+Carries_CPA Top 2        Jeremy Doku   90.0
+Carries_CPA Top 3       Noni Madueke   87.0
+Carries_CPA Bot 1    Aaron Cresswell    0.0
+Carries_CPA Bot 2     Aaron Ramsdale    0.0
+Carries_CPA Bot 3 Abdukodir Khusanov    0.0
+
+==============
+   Name_col  Rank     Player Name  Value
+Miscontrols Top 1   Mohamed Salah  109.0
+Miscontrols Top 2   Morgan Rogers  104.0
+Miscontrols Top 3    Bryan Mbeumo   99.0
+Miscontrols Bot 1   Alex McCarthy    0.0
+Miscontrols Bot 2 Alphonse Areola    0.0
+Miscontrols Bot 3  Altay Bayındır    0.0
+
+==============
+    Name_col  Rank      Player Name  Value
+Dispossessed Top 1   Mohammed Kudus   89.0
+Dispossessed Top 2  Bruno Guimarães   73.0
+Dispossessed Top 3 Dejan Kulusevski   73.0
+Dispossessed Bot 1  Aaron Cresswell    0.0
+Dispossessed Bot 2   Aaron Ramsdale    0.0
+Dispossessed Bot 3    Alex McCarthy    0.0
+
+==============
+  Name_col  Rank     Player Name  Value
+Passes Rec Top 1 Virgil van Dijk 2153.0
+Passes Rec Top 2  Joško Gvardiol 2132.0
+Passes Rec Top 3  William Saliba 2056.0
+Passes Rec Bot 1 Odsonne Édouard   13.0
+Passes Rec Bot 2     Roman Dixon   13.0
+Passes Rec Bot 3  Daniel Bentley   14.0
+
+==============
+      Name_col  Rank        Player Name  Value
+Prg Rec (Poss) Top 1      Mohamed Salah  440.0
+Prg Rec (Poss) Top 2       Bryan Mbeumo  319.0
+Prg Rec (Poss) Top 3 Alejandro Garnacho  281.0
+Prg Rec (Poss) Bot 1     Aaron Ramsdale    0.0
+Prg Rec (Poss) Bot 2      Alex McCarthy    0.0
+Prg Rec (Poss) Bot 3        Alex Palmer    0.0
+
+==============
+       Name_col  Rank     Player Name  Value
+Fouls Committed Top 1      João Gomes   67.0
+Fouls Committed Top 2      Liam Delap   67.0
+Fouls Committed Top 3 Antoine Semenyo   66.0
+Fouls Committed Bot 1 Albert Grønbaek    0.0
+Fouls Committed Bot 2   Alex McCarthy    0.0
+Fouls Committed Bot 3         Alisson    0.0
+
+==============
+   Name_col  Rank     Player Name  Value
+Fouls Drawn Top 1 Bruno Guimarães  100.0
+Fouls Drawn Top 2   Matheus Cunha   69.0
+Fouls Drawn Top 3     John McGinn   67.0
+Fouls Drawn Bot 1 Alphonse Areola    0.0
+Fouls Drawn Bot 2  Altay Bayındır    0.0
+Fouls Drawn Bot 3   Andrés García    0.0
+
+==============
+Name_col  Rank           Player Name  Value
+Offsides Top 1 Dominic Calvert-Lewin   27.0
+Offsides Top 2            Chris Wood   26.0
+Offsides Top 3           Jamie Vardy   25.0
+Offsides Bot 1       Aaron Cresswell    0.0
+Offsides Bot 2        Aaron Ramsdale    0.0
+Offsides Bot 3    Abdukodir Khusanov    0.0
+
+==============
+Name_col  Rank     Player Name  Value
+ Crosses Top 1     Pedro Porro  191.0
+ Crosses Top 2    Bryan Mbeumo  182.0
+ Crosses Top 3 Bruno Fernandes  172.0
+ Crosses Bot 1  Aaron Ramsdale    0.0
+ Crosses Bot 2   Alex McCarthy    0.0
+ Crosses Bot 3     Alex Palmer    0.0
+
+==============
+Name_col  Rank     Player Name  Value
+   Recov Top 1  Moisés Caicedo  203.0
+   Recov Top 2 Elliot Anderson  197.0
+   Recov Top 3 Bruno Fernandes  192.0
+   Recov Bot 1  Altay Bayındır    0.0
+   Recov Bot 2  Brandon Austin    1.0
+   Recov Bot 3  Daniel Bentley    1.0
+
+==============
+   Name_col  Rank     Player Name  Value
+Aerials Won Top 1        Dan Burn  134.0
+Aerials Won Top 2  Nathan Collins  112.0
+Aerials Won Top 3 Virgil van Dijk  111.0
+Aerials Won Bot 1   Andrés García    0.0
+Aerials Won Bot 2          Antony    0.0
+Aerials Won Bot 3   Billy Gilmour    0.0
+
+==============
+    Name_col  Rank          Player Name  Value
+Aerials Lost Top 1           Chris Wood  129.0
+Aerials Lost Top 2 Jean-Philippe Mateta   99.0
+Aerials Lost Top 3 Jørgen Strand Larsen   96.0
+Aerials Lost Bot 1       Aaron Ramsdale    0.0
+Aerials Lost Bot 2      Albert Grønbaek    0.0
+Aerials Lost Bot 3        Alex McCarthy    0.0
+
+==============
+    Name_col  Rank     Player Name  Value
+Aerials Won% Top 1  Aaron Ramsdale  100.0
+Aerials Won% Top 2 Albert Grønbaek  100.0
+Aerials Won% Top 3   Alex McCarthy  100.0
+Aerials Won% Bot 1   Andrés García    0.0
+Aerials Won% Bot 2          Antony    0.0
+Aerials Won% Bot 3     Emi Buendía    0.0

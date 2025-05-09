@@ -1,0 +1,277 @@
+--- PHÂN TÍCH CỤM CẦU THỦ ---
+
+=============================
+✅ Cụm 1 - Số cầu thủ: 123
+🔹 Tên cầu thủ: Abdoulaye Doucouré, Adam Wharton, Amadou Onana, Andrew Robertson, André, Ashley Young, Boubacar Kamara, Boubakary Soumaré, Calvin Bassey, Carlos Baleba, Casemiro, Chris Richards, Christian Nørgaard, Cristian Romero, Curtis Jones, Daichi Kamada, Dan Burn, Dara O'Shea, Dean Huijsen, Destiny Udogie, Diogo Dalot, Djed Spence, Edson Álvarez, Emerson Palmieri, Emile Smith Rowe, Ethan Pinnock, Ezri Konsa, Fabian Schär, Flynn Downes, Gabriel Magalhães, Harry Maguire, Harry Winks, Ibrahima Konaté, Idrissa Gana Gueye, Illia Zabarnyi, Jack Hinshelwood, Jacob Greaves, James Justin, James Tarkowski, Jan Bednarek, Jan Paul van Hecke, Jarrad Branthwaite, Jefferson Lerma, Jens Cajuste, Joachim Andersen, Joe Aribo, Joelinton, John McGinn, João Gomes, Joël Veltman, Joško Gvardiol, Jurriën Timber, Kalvin Phillips, Kenny Tete, Kieran Trippier, Kobbie Mainoo, Konstantinos Mavropanos, Leif Davis, Lesley Ugochukwu, Levi Colwill, Lewis Cook, Lewis Dunk, Lewis Hall, Lisandro Martínez, Lucas Bergvall, Lucas Digne, Lucas Paquetá, Malo Gusto, Manuel Akanji, Manuel Ugarte Ribeiro, Marc Cucurella, Marc Guéhi, Mateo Kovačić, Matt Doherty, Matthijs de Ligt, Matty Cash, Max Kilman, Maxence Lacroix, Moisés Caicedo, Murillo, Nathan Collins, Neco Williams, Nicolás Domínguez, Nikola Milenković, Noussair Mazraoui, Nélson Semedo, Ola Aina, Pape Matar Sarr, Pau Torres, Pervis Estupiñán, Rico Lewis, Rodrigo Bentancur, Ryan Christie, Ryan Gravenberch, Ryan Manning, Ryan Yates, Rúben Dias, Sam Morsy, Sander Berge, Sandro Tonali, Santiago Bueno, Saša Lukić, Sepp van den Berg, Taylor Harwood-Bellis, Thomas Partey, Timothy Castagne, Tomáš Souček, Toti Gomes, Tyler Adams, Valentino Livramento, Victor Bernth Kristiansen, Virgil van Dijk, Vitaliy Mykolenko, Vitaly Janelt, Wilfred Ndidi, Will Hughes, William Saliba, Wout Faes, Yasin Ayari, Yehor Yarmoliuk, Yukinari Sugawara, Yves Bissouma, İlkay Gündoğan
+🔍 Trung bình chỉ số cụm:
+Matches played                    28.62
+Starts                            24.59
+Goals                              1.27
+Assists                            1.22
+Yellow Cards                       5.28
+Red Cards                          0.18
+xG                                 1.50
+xAG                                1.41
+Prg Carries                       27.58
+Prg Passes                        94.48
+Prg Passes Rec                    39.71
+Goals/90                           0.05
+Assists/90                         0.05
+xG/90                              0.06
+xGA/90                             0.06
+Sot/90                             0.20
+Passes Completed (Cmp)          1082.28
+Cmp%                              84.45
+Total Dist                     18410.50
+Short_Cmp%                        90.90
+Medium_Cmp%                       88.39
+Key Passes                        15.48
+Pass 1/3                          92.09
+Pass PA                           13.08
+Cross PA                           3.21
+Prg Passes (Pass)                 94.48
+Shot-Creating Actions (SCA)       39.54
+SCA90                              1.70
+Goal-Creating Actions (GCA)        3.65
+GCA90                              0.16
+Tkl                               48.59
+Tkl Won                           29.06
+Dribbles Challenged (Att)         41.67
+Challenges Lost                   18.24
+Blocks                            29.92
+Shots Blocked                     13.01
+Pass Blocked                      16.91
+Interceptions                     25.57
+Touches                         1525.39
+Def_Pen                          134.41
+Def_3rd                          537.73
+Mid_3rd                          741.19
+Att_3rd                          258.93
+Att_Pen                           30.95
+Attempted                         23.18
+Successful %                      11.07
+Tkld%                              9.30
+Carries                          823.33
+PrgDist                         2126.51
+PrgC (Poss)                       27.58
+Carries_1/3                       23.29
+Carries_CPA                        3.70
+Miscontrols                       20.24
+Dispossessed                      13.82
+Passes Rec                       984.31
+Prg Rec (Poss)                    39.71
+Fouls Committed                   26.98
+Fouls Drawn                       21.50
+Offsides                           1.59
+Crosses                           25.56
+Recov                            105.17
+Aerials Won                       36.67
+Aerials Lost                      27.76
+Cluster                            1.00
+
+=============================
+✅ Cụm 2 - Số cầu thủ: 83
+🔹 Tên cầu thủ: Aaron Wan-Bissaka, Adama Traoré, Alejandro Garnacho, Alex Iwobi, Alexander Isak, Alexis Mac Allister, Amad Diallo, Andreas Pereira, Anthony Elanga, Anthony Gordon, Antoine Semenyo, Antonee Robinson, Bernardo Silva, Bilal El Khannouss, Brennan Johnson, Bruno Fernandes, Bruno Guimarães, Bryan Mbeumo, Bukayo Saka, Callum Hudson-Odoi, Cody Gakpo, Cole Palmer, Dango Ouattara, Daniel Muñoz, Declan Rice, Dejan Kulusevski, Dominik Szoboszlai, Eberechi Eze, Elliot Anderson, Enzo Fernández, Facundo Buonanotte, Gabriel Martinelli, Georginio Rutter, Harvey Barnes, Iliman Ndiaye, Ismaila Sarr, Jack Harrison, Jacob Murphy, Jadon Sancho, James Maddison, Jarrod Bowen, Jean-Philippe Mateta, Jean-Ricner Bellegarde, Jeremy Doku, João Pedro, Justin Kluivert, Kaoru Mitoma, Keane Lewis-Potter, Kevin De Bruyne, Kevin Schade, Kyle Walker-Peters, Leandro Trossard, Liam Delap, Luis Díaz, Marcus Tavernier, Martin Ødegaard, Mateus Fernandes, Matheus Cunha, Matheus Nunes, Mikkel Damsgaard, Milos Kerkez, Mohamed Salah, Mohammed Kudus, Morgan Gibbs-White, Morgan Rogers, Nicolas Jackson, Noni Madueke, Ollie Watkins, Omari Hutchinson, Pedro Neto, Pedro Porro, Phil Foden, Rayan Aït-Nouri, Raúl Jiménez, Son Heung-min, Stephy Mavididi, Sávio, Trent Alexander-Arnold, Tyler Dibling, Tyrick Mitchell, Yankuba Minteh, Yoane Wissa, Youri Tielemans
+🔍 Trung bình chỉ số cụm:
+Matches played                    31.40
+Starts                            26.10
+Goals                              6.53
+Assists                            5.12
+Yellow Cards                       4.10
+Red Cards                          0.10
+xG                                 6.02
+xAG                                4.83
+Prg Carries                       80.40
+Prg Passes                       101.92
+Prg Passes Rec                   164.29
+Goals/90                           0.26
+Assists/90                         0.21
+xG/90                              0.24
+xGA/90                             0.20
+Sot/90                             0.72
+Passes Completed (Cmp)           755.08
+Cmp%                              75.65
+Total Dist                     11929.88
+Short_Cmp%                        85.80
+Medium_Cmp%                       78.20
+Key Passes                        40.25
+Pass 1/3                          61.95
+Pass PA                           35.72
+Cross PA                           8.39
+Prg Passes (Pass)                101.92
+Shot-Creating Actions (SCA)       87.76
+SCA90                              3.52
+Goal-Creating Actions (GCA)       10.66
+GCA90                              0.43
+Tkl                               39.46
+Tkl Won                           23.99
+Dribbles Challenged (Att)         37.29
+Challenges Lost                   20.84
+Blocks                            23.86
+Shots Blocked                      3.83
+Pass Blocked                      20.02
+Interceptions                     13.45
+Touches                         1277.61
+Def_Pen                           37.83
+Def_3rd                          207.14
+Mid_3rd                          514.18
+Att_3rd                          575.58
+Att_Pen                          101.93
+Attempted                         80.48
+Successful %                      34.40
+Tkld%                             36.61
+Carries                          750.83
+PrgDist                         2445.99
+PrgC (Poss)                       80.40
+Carries_1/3                       46.17
+Carries_CPA                       31.66
+Miscontrols                       48.63
+Dispossessed                      36.43
+Passes Rec                       880.10
+Prg Rec (Poss)                   164.29
+Fouls Committed                   26.34
+Fouls Drawn                       34.25
+Offsides                           6.51
+Crosses                           77.81
+Recov                            102.33
+Aerials Won                       18.98
+Aerials Lost                      29.39
+Cluster                            2.00
+
+=============================
+✅ Cụm 3 - Số cầu thủ: 183
+🔹 Tên cầu thủ: Aaron Cresswell, Aaron Ramsdale, Abdukodir Khusanov, Adam Lallana, Adam Smith, Adam Webster, Albert Grønbaek, Alex McCarthy, Alex Palmer, Ali Al Hamadi, Alisson, Alphonse Areola, Altay Bayındır, André Onana, Andrés García, Andy Irving, Antonín Kinský, Archie Gray, Arijanet Muric, Armando Broja, Armel Bella Kotchap, Axel Disasi, Axel Tuanzebe, Ayden Heaven, Bart Verbruggen, Ben Brereton, Ben Chilwell, Ben Davies, Ben Godfrey, Ben Mee, Ben White, Benoît Badiashile, Bernd Leno, Billy Gilmour, Brandon Austin, Caleb Okoli, Callum Wilson, Cameron Burgess, Caoimhín Kelleher, Carlos Forbs, Chadi Riad, Charlie Taylor, Cheick Doucouré, Chidozie Obi-Martin, Chiedozie Ogbene, Christian Walton, Conor Bradley, Conor Coady, Conor Townsend, Craig Dawson, Daniel Bentley, Danilo, Danny Ward, David Raya, Dean Henderson, Diego Carlos, Diego Gómez, Ederson, Edmond-Paris Maghoma, Emi Buendía, Emil Krafth, Emiliano Martínez, Emmanuel Agbadou, Evan Ferguson, Ferdi Kadioglu, Filip Jørgensen, Fraser Forster, Guglielmo Vicario, Guido Rodríguez, Hamza Choudhury, Harrison Reed, Harry Amass, Harry Clarke, Harry Toffolo, Hwang Hee-chan, Hákon Rafn Valdimarsson, Ibrahim Sangaré, Igor, Issa Diop, Jack Stephens, Jack Taylor, Jahmai Simpson-Pusey, Jake O'Brien, Jakub Kiwior, Jakub Stolarczyk, James Bree, James Hill, James Milner, James Ward-Prowse, Jannik Vestergaard, Jarell Quansah, Jason Steele, Jean-Clair Todibo, Joe Gomez, Joe Lumley, John Stones, Jonny Evans, Jordan Pickford, Jorge Cuenca, Jorginho, Joshua Acheampong, José Sá, Julian Araujo, Kepa Arrizabalaga, Kevin Danso, Kieran Tierney, Kiernan Dewsbury-Hall, Kosta Nedeljković, Kostas Tsimikas, Kristoffer Ajer, Kyle Walker, Lamare Bogarde, Leny Yoro, Lewis Miley, Lloyd Kelly, Luis Guilherme, Luke Shaw, Luke Thomas, Luke Woolfenden, Mads Hermansen, Marcos Senesi, Mark Flekken, Mark Travers, Martin Dúbravka, Massimo Luongo, Matz Sels, Michael Keane, Micky van de Ven, Miguel Almirón, Morato, Myles Lewis-Skelly, Nathan Aké, Nathan Patterson, Nathan Wood-Gordon, Nathaniel Clyne, Neto, Nick Pope, Nico O’Reilly, Nicolás González, Odsonne Édouard, Oleksandr Zinchenko, Oliver Scarles, Oliver Skipp, Orel Mangala, Patrick Dorgu, Radu Drăgușin, Reece James, Renato Veiga, Ricardo Pereira, Riccardo Calafiori, Robert Sánchez, Robin Olsen, Roman Dixon, Roméo Lavia, Ross Stewart, Ryan Fraser, Sam Johnstone, Sean Longstaff, Sergio Reguilón, Stefan Ortega, Sven Botman, Séamus Coleman, Thiago, Tim Iroegbunam, Toby Collyer, Tom Cairney, Tommy Doyle, Tosin Adarabioyo, Trevoh Chalobah, Tyler Fredricson, Tyrell Malacia, Tyrone Mings, Victor Lindelöf, Vladimír Coufal, Wataru Endo, Welington, Wesley Fofana, William Smallbone, Willian, Willy Boly, Woyo Coulibaly, Yerson Mosquera, Łukasz Fabiański
+🔍 Trung bình chỉ số cụm:
+Matches played                   12.57
+Starts                            8.31
+Goals                             0.14
+Assists                           0.19
+Yellow Cards                      1.56
+Red Cards                         0.05
+xG                                0.21
+xAG                               0.22
+Prg Carries                       4.75
+Prg Passes                       16.33
+Prg Passes Rec                    7.68
+Goals/90                          0.02
+Assists/90                        0.02
+xG/90                             0.05
+xGA/90                            0.04
+Sot/90                            0.12
+Passes Completed (Cmp)          319.54
+Cmp%                             80.46
+Total Dist                     6358.49
+Short_Cmp%                       91.99
+Medium_Cmp%                      89.03
+Key Passes                        2.32
+Pass 1/3                         19.00
+Pass PA                           2.13
+Cross PA                          0.56
+Prg Passes (Pass)                16.31
+Shot-Creating Actions (SCA)       6.56
+SCA90                             1.19
+Goal-Creating Actions (GCA)       0.59
+GCA90                             0.09
+Tkl                               8.64
+Tkl Won                           5.16
+Dribbles Challenged (Att)         8.30
+Challenges Lost                   3.78
+Blocks                            5.69
+Shots Blocked                     2.71
+Pass Blocked                      2.98
+Interceptions                     4.48
+Touches                         452.90
+Def_Pen                         142.20
+Def_3rd                         264.11
+Mid_3rd                         146.14
+Att_3rd                          44.86
+Att_Pen                           5.47
+Attempted                         4.16
+Successful %                      2.03
+Tkld%                             1.63
+Carries                         259.87
+PrgDist                         669.55
+PrgC (Poss)                       4.74
+Carries_1/3                       3.85
+Carries_CPA                       0.75
+Miscontrols                       3.98
+Dispossessed                      2.35
+Passes Rec                      281.67
+Prg Rec (Poss)                    7.66
+Fouls Committed                   4.97
+Fouls Drawn                       4.09
+Offsides                          0.30
+Crosses                           4.40
+Recov                            22.45
+Aerials Won                       7.79
+Aerials Lost                      5.87
+Cluster                           3.00
+
+=============================
+✅ Cụm 4 - Số cầu thủ: 102
+🔹 Tên cầu thủ: Abdul Fatawu Issahaku, Adam Armstrong, Alex Scott, Antony, Ben Johnson, Beto, Bobby De Cordova-Reid, Brajan Gruda, Cameron Archer, Carlos Alcaraz, Carlos Soler, Chris Wood, Christian Eriksen, Christopher Nkunku, Conor Chaplin, Crysencio Summerville, Danny Ings, Danny Welbeck, Darwin Núñez, David Brooks, Diogo Jota, Dominic Calvert-Lewin, Dominic Solanke, Donyell Malen, Dwight McNeil, Eddie Nketiah, Enes Ünal, Erling Haaland, Ethan Nwaneri, Evanilson, Fabio Carvalho, Gabriel Jesus, George Hirst, Gonçalo Guedes, Harry Wilson, Harvey Elliott, Ian Maatsen, Jack Clarke, Jack Grealish, Jacob Ramsey, Jaden Philogene Bidace, James Garner, James Mcatee, Jamie Vardy, Jeffrey Schlupp, Jesper Lindstrøm, Joe Willock, Jordan Ayew, Joshua Zirkzee, Jota Silva, João Félix, Julio Enciso, Justin Devenny, Jáder Durán, Jørgen Strand Larsen, Kai Havertz, Kamaldeen Sulemana, Kasey McAteer, Leon Bailey, Luis Sinisterra, Mads Roerslev, Marco Asensio, Marcus Rashford, Mario Lemina, Marshall Munetsi, Mason Mount, Mathias Jensen, Mathys Tel, Mats Wieffer, Matt O'Riley, Michael Kayode, Michail Antonio, Mikel Merino, Mikey Moore, Mykhailo Mudryk, Nathan Broadhead, Niclas Füllkrug, Omar Marmoush, Pablo Sarabia, Patson Daka, Paul Onuachu, Philip Billing, Raheem Sterling, Ramón Sosa, Rasmus Højlund, Reiss Nelson, Richarlison, Rodrigo Gomes, Rodrigo Muniz, Ross Barkley, Ryan Sessegnon, Sammie Szmodics, Simon Adingra, Solly March, Taiwo Awoniyi, Tariq Lamptey, Timo Werner, Tyrique George, Wes Burns, William Osula, Wilson Odobert, Álex Moreno
+🔍 Trung bình chỉ số cụm:
+Matches played                   19.47
+Starts                            9.13
+Goals                             2.65
+Assists                           1.28
+Yellow Cards                      1.86
+Red Cards                         0.04
+xG                                2.78
+xAG                               1.26
+Prg Carries                      19.94
+Prg Passes                       24.76
+Prg Passes Rec                   52.32
+Goals/90                          0.26
+Assists/90                        0.15
+xG/90                             0.28
+xGA/90                            0.16
+Sot/90                            0.85
+Passes Completed (Cmp)          207.99
+Cmp%                             73.44
+Total Dist                     3124.17
+Short_Cmp%                       82.99
+Medium_Cmp%                      75.00
+Key Passes                       10.75
+Pass 1/3                         15.09
+Pass PA                           7.95
+Cross PA                          1.80
+Prg Passes (Pass)                24.76
+Shot-Creating Actions (SCA)      24.45
+SCA90                             2.90
+Goal-Creating Actions (GCA)       2.86
+GCA90                             0.32
+Tkl                              13.74
+Tkl Won                           7.88
+Dribbles Challenged (Att)        13.86
+Challenges Lost                   7.86
+Blocks                            8.75
+Shots Blocked                     1.52
+Pass Blocked                      7.23
+Interceptions                     4.70
+Touches                         390.75
+Def_Pen                          14.85
+Def_3rd                          63.07
+Mid_3rd                         161.17
+Att_3rd                         172.01
+Att_Pen                          38.40
+Attempted                        22.66
+Successful %                      8.61
+Tkld%                            11.30
+Carries                         218.54
+PrgDist                         600.21
+PrgC (Poss)                      19.94
+Carries_1/3                      12.75
+Carries_CPA                       7.96
+Miscontrols                      21.67
+Dispossessed                     13.51
+Passes Rec                      263.79
+Prg Rec (Poss)                   52.32
+Fouls Committed                  12.55
+Fouls Drawn                      12.02
+Offsides                          3.77
+Crosses                          17.31
+Recov                            32.81
+Aerials Won                      14.95
+Aerials Lost                     20.35
+Cluster                           4.00

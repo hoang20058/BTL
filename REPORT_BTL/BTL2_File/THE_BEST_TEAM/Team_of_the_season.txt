@@ -1,0 +1,75 @@
+Statistic	Best Team	Average Score
+Matches played	Liverpool	25.1905
+Starts	Brentford	18.3333
+Minutes	Arsenal	658.1111
+Goals	Liverpool	3.8095
+Assists	Liverpool	2.8571
+Yellow Cards	Bournemouth	3.8696
+Red Cards	Arsenal	0.2273
+xG	Liverpool	3.6762
+xAG	Liverpool	2.6762
+Prg Carries	Manchester City	41.64
+Prg Passes	Liverpool	83.9524
+Prg Passes Rec	Liverpool	83.0476
+Goals/90	Aston Villa	0.1831
+Assists/90	Liverpool	0.139
+xG/90	Aston Villa	0.2023
+xGA/90	Chelsea	0.1542
+GA90	Manchester Utd	2.65
+Save%	Bournemouth	80.0
+CS%	Aston Villa	58.8
+PK_Save%	Everton	100.0
+SoT%	Nott'ham Forest	39.045
+Sot/90	Bournemouth	0.5383
+G/sh	Arsenal	0.1371
+Shoot_Dist	Nott'ham Forest	19.125
+Passes Completed (Cmp)	Liverpool	807.1429
+Cmp%	Manchester City	86.504
+Total Dist	Liverpool	13712.9524
+Short_Cmp%	Manchester City	92.128
+Medium_Cmp%	Manchester City	89.516
+Long_Cmp%	Liverpool	60.2762
+Key Passes	Liverpool	22.4286
+Pass 1/3	Liverpool	69.5714
+Pass PA	Liverpool	19.0476
+Cross PA	Fulham	4.5
+Prg Passes (Pass)	Liverpool	83.9524
+Shot-Creating Actions (SCA)	Liverpool	50.8095
+SCA90	Liverpool	2.6233
+Goal-Creating Actions (GCA)	Liverpool	6.5238
+GCA90	Liverpool	0.3286
+Tkl	Crystal Palace	32.4286
+Tkl Won	Crystal Palace	19.0
+Dribbles Challenged (Att)	Liverpool	28.9524
+Challenges Lost	Liverpool	13.7619
+Blocks	Brentford	21.1905
+Shots Blocked	Brentford	8.7143
+Pass Blocked	Crystal Palace	14.381
+Interceptions	Bournemouth	14.3913
+Touches	Liverpool	1139.4286
+Def_Pen	Brentford	145.5714
+Def_3rd	Brentford	366.4762
+Mid_3rd	Liverpool	513.4762
+Att_3rd	Manchester City	353.4
+Att_Pen	Liverpool	57.381
+Attempted	West Ham	30.8696
+Successful %	Manchester City	14.04
+Tkld%	Tottenham	14.3214
+Carries	Manchester City	664.68
+PrgDist	Manchester City	2051.96
+PrgC (Poss)	Manchester City	41.64
+Carries_1/3	Manchester City	31.16
+Carries_CPA	Manchester City	14.48
+Miscontrols	Nott'ham Forest	23.6818
+Dispossessed	Newcastle Utd	17.9565
+Passes Rec	Liverpool	798.2381
+Prg Rec (Poss)	Liverpool	83.0476
+Fouls Committed	Bournemouth	20.5217
+Fouls Drawn	Newcastle Utd	18.2174
+Offsides	Nott'ham Forest	3.7727
+Crosses	Fulham	37.9091
+Recov	Bournemouth	73.2174
+Aerials Won	Brentford	27.5238
+Aerials Lost	Crystal Palace	27.3333
+Aerials Won%	Brentford	54.8857
+The best Team	Liverpool	Top in 26 statistics
